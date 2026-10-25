@@ -8,9 +8,9 @@ Sites e aplicações web com HTML, CSS, JavaScript, TypeScript, PHP, Python e SQ
 
 Também trabalho com IA. Ela acelera a parte chata, mas o código que sobe é meu, e eu consigo explicar cada linha dele.
 
-## Disc2
+## Varanda
 
-Um Discord alternativo, com servidores, canais e mensagens em tempo real. Comecei para entender como plataformas assim funcionam por dentro. É o projeto de que eu mais gosto, e o nome ainda vai mudar.
+Um app de chat e voz privado para até oito amigos, com servidores, canais e mensagens em tempo real. Comecei para entender como plataformas assim funcionam por dentro. É o projeto de que eu mais gosto.
 
 ## Outros projetos
 
